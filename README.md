@@ -13,13 +13,7 @@
 	- C++
 
 - **Inspiracja**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvbeG8H19vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dvQp4qqw6Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FkmAE0gY_8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5NY3A6rvpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/RvbeG8H19vs
+https://www.youtube.com/embed/dvQp4qqw6Js
+https://www.youtube.com/embed/FkmAE0gY_8I
+https://www.youtube.com/embed/j5NY3A6rvpU
