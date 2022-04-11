@@ -1,7 +1,7 @@
 # Vector
 
 - **Cele**
-	Stworzyć grę eksploracyjno-soulslike z proceduralnie generowanym światem, gdzie jest się bardzo mobilną postacią w generowanym miejskim świecie. 
+	- Stworzyć grę eksploracyjno-soulslike z proceduralnie generowanym światem, gdzie jest się bardzo mobilną postacią w generowanym miejskim świecie. 
 	- Charakterystyczne cechy gry: miejski setting (duże, wysokie budynki), wiele ciasnych i ciekawych miejsc do użycia swoich umiejętności mobilnych. 
 	- Przeciwnicy oraz gigantyczne bossy pojawiający się losowo (lub proceduralnie) na terenie całej mapy. 
 	- Duży stopień trudności, ale momenty spokoju, w których można ćwiczyć swoje umiejętności. 
