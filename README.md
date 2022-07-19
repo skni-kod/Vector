@@ -12,8 +12,3 @@
 	- UE5
 	- C++
 
-- **Inspiracja**
-	- https://www.youtube.com/embed/RvbeG8H19vs
-	- https://www.youtube.com/embed/dvQp4qqw6Js
-	- https://www.youtube.com/embed/FkmAE0gY_8I
-	- https://www.youtube.com/embed/j5NY3A6rvpU
